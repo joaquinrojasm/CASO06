@@ -1,4 +1,4 @@
-Flask
-tensorflow
-Pillow
+Flask==2.3.2
+tensorflow==2.14.0
 numpy
+Pillow
